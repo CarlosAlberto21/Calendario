@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="atras"> - </string>
+    <string name="siguiente"> -> </string>
+    <string name="back"><![CDATA[<-]]></string>
+
+    <string name="usu">Usuario</string>
+    <string name="pass">********</string>
+    <string name="longin">Log In</string>
+    <string name="crearC">Crear nueva Cuenta</string>
+    <string name="calendario">Calendarios</string>
+    <string name="name">Name</string>
+    <string name="shortN">Short Name</string>
+    <string name="email">Email</string>
+    <string name="activar">Activar</string>
+</resources>
